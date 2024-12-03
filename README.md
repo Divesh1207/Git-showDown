@@ -2,6 +2,11 @@
  
 A simple web app that trolls you by criticizing your GitHub profile!
 
+## Screenshots 📸
+
+- ![Screenshot 1](path/to/screenshot1.png)
+- ![Screenshot 2](path/to/screenshot2.png)
+
 ## How It Works
 
 Enter your GitHub username into the app.
@@ -20,21 +25,33 @@ Framework: Vite with React.js
 
 Styling: Tailwind CSS for responsive and modern UI design
 
-APIs:
+### APIs:
 
-GitHub API for fetching profile data and comparisons
-Gemini API (replace with actual link if applicable)
+GitHub API for fetching profile data and comparisons.
+
+Gemini API.
+
 Google Generative AI for random fact generation and witty roasts.
 
-State Management: Zustand for lightweight state handling.
+### State Management:
 
-Routing: React Router DOM for navigation.
+Zustand for lightweight state handling.
 
-Animations: Framer Motion for smooth UI transitions.
+### Routing: 
 
-HTTP Client: Axios for API requests.
+React Router DOM for navigation.
 
-Icons: Lucide React for beautiful SVG icons.
+### Animations: 
+
+Framer Motion for smooth UI transitions.
+
+### HTTP Client: 
+
+Axios for API requests.
+
+### Icons: 
+
+Lucide React for beautiful SVG icons.
 
 ## Features
 
@@ -94,10 +111,7 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Screenshots 📸
-[Add screenshots of your app here]
-- ![Screenshot 1](path/to/screenshot1.png)
-- ![Screenshot 2](path/to/screenshot2.png)
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
