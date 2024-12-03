@@ -6,9 +6,7 @@ A simple web app that trolls you by criticizing your GitHub profile!
 
 https://github.com/user-attachments/assets/460b3912-9370-44b6-ac7a-0f74c0507181
 
-
-
-
+Project Live Here: [Link](https://git-show-down-f8yswhtf3-divesh-pandeys-projects.vercel.app/)
 
 ## How It Works
 
@@ -117,4 +115,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 Divesh kumar pandey - diveshp904@gmail.com
 
-Project Link: [Github]( https://github.com/Divesh1207/Git-showDown)
+
