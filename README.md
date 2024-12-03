@@ -67,11 +67,6 @@ Lucide React for beautiful SVG icons.
 
 ## How to Run Locally
 
-# GitHub Showdown
-
-## Overview
-GitHub Showdown is a web application that [brief description of what the project does].
-
 ## Prerequisites
 - Node.js (version X.X.X)
 - npm
