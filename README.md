@@ -2,10 +2,13 @@
  
 A simple web app that trolls you by criticizing your GitHub profile!
 
-## Screenshots 📸
+## Video 📸
 
-- ![Screenshot 1](path/to/screenshot1.png)
-- ![Screenshot 2](path/to/screenshot2.png)
+https://github.com/user-attachments/assets/460b3912-9370-44b6-ac7a-0f74c0507181
+
+
+
+
 
 ## How It Works
 
