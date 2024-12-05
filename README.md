@@ -30,8 +30,6 @@ Styling: Tailwind CSS for responsive and modern UI design
 
 GitHub API for fetching profile data and comparisons.
 
-Gemini API.
-
 Google Generative AI for random fact generation and witty roasts.
 
 ### State Management:
